@@ -9,8 +9,7 @@ A custom extension for [AUTOMATIC1111/stable-diffusion-webui](https://github.com
 ## Installation
 ## 安装方式
 
-The extension can be installed directly from within the **Extensions** tab within the Webui.
-我期望它可以从SD的扩展列表下载，当然你也可以手动安装。
+扩展-从网址安装，当然你也可以下载zip包手动安装。
 手动安装方式是下载后解压放在 extensions 目录下。
 
 ## 爱来自叶小猴，欢迎加入墨幽炼丹阁QQ群 858495398
